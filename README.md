@@ -2,7 +2,7 @@
 
 Este repositorio contiene el análisis realizado durante el Sprint 5 del caso sobre movilidad urbana.
 
-El dataset `S5 ladb_mobility_economy_project_student` incluye dos datafreme uno **traffic** con *12 columnas y 1004464 entradas*, y un segundo dataframe con **eco** con *7 columnas y 30 entradas*.
+El dataset `S5 ladb_mobility_economy_project_student` incluye dos datafreme, uno llamado **traffic** con *12 columnas y 1004464 entradas*, y un segundo dataframe llamado **eco** con *7 columnas y 30 entradas*.
 
 ## 📂 Contenido del repositorio
 
